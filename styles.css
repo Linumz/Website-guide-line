@@ -1,0 +1,155 @@
+h1 {
+text-align: center;
+font-size: 40px;
+font-family: 'SUSE';
+}
+
+h2 {
+    font-family: 'Roboto';
+}
+
+p {
+    font-family: 'Reddit Sans Condensed';
+    font-size: large;
+}
+
+
+.colors {
+    padding: 1px;
+    border: thick double;
+    
+}
+
+.black {
+    color: white;
+    background-color: black;
+    
+    
+}
+
+.purple {
+    color: white;
+    background-color: hsl(258 70% 35%);
+}
+
+.blue {
+    color: white;
+    background-color: hsl(206 56% 49%)
+}
+
+.yellow {
+    color: black;
+    background-color: hsl(61 92% 80%);
+}
+
+.black, .purple, .blue, .yellow {
+    text-align: center;
+    align-content: center;
+    font-weight: 300;
+    display: inline-block;
+    height: 100px;
+    width: 32%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.container {
+    padding: 1px;
+    border: thick double;
+    margin-top: 10px;
+}
+
+.font-container {
+
+}
+
+.font-panel {
+display: inline-block;
+width: 45%;
+font-size: 115%;
+}
+
+.font-label-SUSE {
+    font-family: 'SUSE';
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.regular-SUSE {
+    font-family: 'SUSE';
+    font-weight: 400;
+
+}
+
+.bold-SUSE {
+    font-family: 'SUSE';
+    font-weight: 700;
+}
+
+.italic-SUSE {
+    font-family: 'SUSE';
+    font-style: italic;
+}
+
+.font-label-Roboto {
+    font-family: 'Roboto';
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.regular-Roboto {
+    font-family: 'Roboto';
+    font-weight: 400;
+
+}
+
+.bold-Roboto {
+    font-family: 'Roboto';
+    font-weight: 700;
+}
+
+.italic-Roboto {
+    font-family: 'Roboto';
+    font-style: italic;
+}
+
+.font-label-Reddit-Sans-Condensed {
+    font-family: 'Reddit-Sans-Condensed';
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.regular-Reddit-Sans-Condensed {
+    font-family: 'Reddit-Sans-Condensed';
+    font-weight: 400;
+
+}
+
+.bold-Reddit-Sans-Condensed-Roboto {
+    font-family: 'Reddit-Sans-Condensed';
+    font-weight: 700;
+}
+
+.italic-Reddit-Sans-Condensed {
+    font-family: 'Reddit-Sans-Condensed';
+    font-style: italic;
+}
+
+.Main-Heading {
+    display: inline-block;
+    text-align: left;
+    font-size: 40px;
+}
+
+.H1-List {
+    font-size: large;
+}
+
+.H2-List {
+    font-size: large;
+}
+
+.Paragraph-List {
+    font-size:large
+}
